@@ -1,0 +1,8 @@
+*save_models*/*.*
+*evts*/*.*
+*save_models*
+*evts*
+*.pth
+*.pkl
+/saved_models/
+/saved_models_2/
